@@ -17,9 +17,9 @@ Create an application which allows to:
 
 Requirements:
 - Use simple feature-driven development
-- Your program must provide a menu-driven console-based user interface. Implementation details are up to you
+- Your program must provide a menu-driven console-based user interface, implementation details are up to you
 - Implementation must employ layered architecture and classes
 - Have at least 20 procedurally generated items in your application at startup
 - Provide specification and tests for all non-UI classes and methods for the first functionality
-- Implement and use your own exception classes.
+- Implement and use your own exception classes
 - Implement **PyUnit test cases**
